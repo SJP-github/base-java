@@ -13,3 +13,5 @@ study git version control of tools
 可以输入中文？
 
 modify 3
+
+checkout a branch dev1!
